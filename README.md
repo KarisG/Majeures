@@ -1,6 +1,6 @@
 # Majeures
 
-![logo](https://github.com/KarisG/Majeures/blob/main/FDM.jpg)
+![logo](https://github.com/KarisG/Majeures/blob/main/FDM.JPG)
 
 ## Principe 
 Le but de ce projet est de créer une application permettant à un utilisateur de simuler son affectation à sa majeure à l'écle d'ingénieur EFREI Paris.
