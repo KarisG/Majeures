@@ -21,3 +21,7 @@ Télécharger tous les fichiers, lancez le main dans un IDE puis suivez les inst
 ## Jeux
 
 ![Jeux](https://github.com/KarisG/Majeures/blob/main/jeuximg.png)
+
+## Affectation
+
+![Affectation](https://github.com/KarisG/Majeures/blob/main/affectation.png)
