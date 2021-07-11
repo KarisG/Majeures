@@ -1,2 +1,5 @@
 # Majeures
-Un jeu pygame créé par moi
+
+Un jeu pygame réunissant plusieurs jeux créé par moi
+
+![Accueil]
