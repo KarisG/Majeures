@@ -1,4 +1,4 @@
-# Majeures
+# Majeures (Project in Python)
 
 ![logo](https://github.com/KarisG/Majeures/blob/main/FDM.JPG)
 
